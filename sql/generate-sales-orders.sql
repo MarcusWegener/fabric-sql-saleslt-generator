@@ -1,0 +1,2 @@
+-- Placeholder for generate-sales-orders.sql
+-- Insert your actual SQL script here.
